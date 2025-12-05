@@ -1,21 +1,24 @@
 ### Hi, ich bin Tobias! 👋
 
-Ich bin angehender Anwendungsentwickler aus Düsseldorf mit einem Faible für sauberen Code und Open Source. Aktuell in der Umschulung, vertiefe ich mich in **Java**, **Angular** und **Systemarchitektur**.
+Ich bin angehender Anwendungsentwickler aus Düsseldorf. Ich liebe es, Systeme zu verstehen – vom **MS Server 2025** bis zum **Angular Frontend**. Aktuell vertiefe ich mich in **C#** und **Cloud-Technologien**.
 
 - 🔭 **Aktuelle Projekte:**
-  - **[Grav Theme Charm](https://github.com/T-Boyke/grav-theme-charm)**: Ein Refactoring des Quark-Themes für Grav CMS auf **Tailwind CSS v4.1** und **Vite**.
+  - **[Earth Ocean Learning (EOL)](https://github.com/T-Boyke/EhlenAngularProjekt3)**: Lern-App mit **Angular 21** & **Tailwind 4**.
+  - **[Grav Theme Charm](https://github.com/T-Boyke/grav-theme-charm)**: Modernes Theme mit **Vite** & **Tailwind**.
 
-- 🌱 **Ich lerne gerade:** Vertiefung in GoLang und fortgeschrittene Linux-Administration (Debian/Fedora/Arch).
-- 🐧 **Linux:** Ich nutze Arch & Debian – "I use Arch btw" 😉.
+- 🌱 **Fokus:** C#, .NET Umgebung und Cloud-Integration (Azure/GCP).
+- 🐧 **Daily Driver:** Fedora & Arch Linux.
+- ⚡ **Workflow:** Agile Entwicklung mit Kanban.
 
 ### 🛠 Tech Stack
 
-| Core | Web & Frontend | Tools & Infra |
+| Languages | Cloud & Server | Data & Tools |
 | :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **SQL** | **Grav CMS** | **JIRA** |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white) | ![Windows Server](https://img.shields.io/badge/Server_2025-0078D6?style=flat-square&logo=windows&logoColor=white) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white) | ![VSC](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **GoLang** | **Google Workspace** | **Kanban** |
 
 ### 📫 Kontakt
-Erreiche mich gerne über
+Erreiche mich gerne über [LinkedIn](DEIN-LINKEDIN-LINK).
