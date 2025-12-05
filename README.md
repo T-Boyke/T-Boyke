@@ -7,7 +7,7 @@ Ich bin angehender Anwendungsentwickler aus Düsseldorf. Ich liebe es, Systeme z
   - **[Grav Theme Charm](https://github.com/T-Boyke/grav-theme-charm)**: Modernes Theme mit **Vite** & **Tailwind**.
 
 - 🌱 **Fokus:** C#, .NET Umgebung und Cloud-Integration (Azure/GCP).
-- 🐧 **Daily Driver:** Fedora & Arch Linux.
+- 🐧 **Daily Driver:** Windows 11 Pro & Arch Linux.
 - ⚡ **Workflow:** Agile Entwicklung mit Kanban.
 
 ### 🛠 Tech Stack
