@@ -53,25 +53,27 @@
 ## 🧠 Engineering Philosophy (2026 Edition)
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'textColor': '#fff', 'nodeTextColor': '#fff', 'lineColor': '#fff' }}}%%
 mindmap
   root((T-Boyke))
     Architecture
       Clean Code
       TDD & DDD
+      SFC (Single File Components)
       Scalability
     Languages
       C# 14 ::High Perf
       Java 21 ::Enterprise
       Kotlin 2.3 ::Mobile/Multi
-      Delphi ::Legacy/Native
+      Web Stack ::Modern UI
     Tools
-      Rider
-      VS 2026
-      CI/CD Pipelines
+      JetBrains Ecosystem
+      CI/CD Automation
+      Cloud Native
     Focus
-      Cloud Integration
-      Performance
-      Security
+      Performance & Security
+      Legacy Modernization
+      Open Source
 ```
 
 </div>
@@ -81,16 +83,16 @@ mindmap
 ## 🏆 Notable Contributions
 
 <div align="center">
-  <!-- Replace existing Repo Names/Links with your actual ones -->
-  
-  | **Project** | **Role** | **Stack** |
-  | :--- | :--- | :--- |
-  | 🎵 **[VIVI Music](https://github.com/T-Boyke/vivi-music)** | Maintainer & Core Dev | **Kotlin**, Android, Material 3 |
-  | 🎨 **[Grav CMS Themes](https://github.com/T-Boyke/grav-themes)** | Contributor | **PHP**, Twig, SCSS, JavaScript |
-  | ☁️ **[Enterprise Cloud Utils](https://github.com/T-Boyke/cloud-utils)** | Architect | **C#**, Azure Functions, Terraform |
-  
-  <br/>
-  <i>Actively enabling the community through open source software.</i>
+
+| **Projekt** | **Rolle** | **Stack** |
+| :--- | :--- | :--- |
+| 🎵 **[VIVI Music](https://github.com/T-Boyke/vivi-music)** | Maintainer & Core Dev | **Kotlin**, Android, Material 3 |
+| 🔷 **[C# OOP Fundamentals](https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals)** | Author | **C#**, .NET, OOP Design Patterns |
+| 🎨 **[Grav CMS Themes](https://github.com/T-Boyke/grav-themes)** | Contributor | **PHP**, Twig, SCSS, JavaScript |
+| ☁️ **[Enterprise Cloud Utils](https://github.com/T-Boyke/cloud-utils)** | Architect | **C#**, Azure Functions, Terraform |
+
+<br/>
+<i>Actively enabling the community through open source software.</i>
 </div>
 
 ---
