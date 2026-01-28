@@ -18,10 +18,11 @@
     </a>
   </p>
 
-  <p>
+<p>
     <img src="https://img.shields.io/badge/IDE-JetBrains_Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white"/>
     <img src="https://img.shields.io/badge/IDE-Visual_Studio_2026-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/OS-Windows_11_Pro-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
   </p>
 </div>
 
@@ -31,15 +32,17 @@
 
 ## 🚀 The Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,delphi,cpp,rider,idea,androidstudio,visualstudio,azure,gcp,git,docker,kubernetes,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,delphi,cpp,rider,idea,visualstudio,azure,gcp,git,docker,kubernetes,linux,mysql,msql,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" />
 <br/><br/>
 
 | Category | Technologies |
 | :--- | :--- |
-| **Core Languages** | **C# 14**, **Java 21**, **Kotlin 2.3**, Delphi (Object Pascal) |
-| **Frameworks** | .NET 10, Spring Boot 3.x, Compose Multiplatform, VCL/FMX |
-| **IDEs & Tools** | **JetBrains Rider**, **IntelliJ IDEA**, **Visual Studio 2026**, RAD Studio |
-| **Architecture** | Microservices, DDD, Clean Architecture, Event-Driven |
+| **Backend & Core** | **C# 14**, **Java 21**, **Kotlin 2.3**, Delphi, Node.js, .NET 10 |
+| **Frontend & Design** | Angular, Blazor, TailwindCSS, UnoCSS, Material UI, HTML5, CSS3 |
+| **Databases** | MariaDB, Microsoft SQL Server |
+| **DevOps & CI/CD** | GitHub Actions, Jenkins, Docker, Kubernetes, Gradle, NuGet, NPM |
+| **Testing** | Playwright, Vitest, ESLint |
+| **Tools & Creative** | JetBrains (Rider, IntelliJ, ReSharper), DaVinci Resolve, Canva, LaTeX |
 
 </div>
 
