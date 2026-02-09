@@ -37,8 +37,7 @@
 ## 🚀 The Tech Arsenal
 
 <div align="center">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    
+  <a href="https://github.com/LelouchFR/skill-icons"> 
     <img 
       src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,java,kotlin,go,html,css,js,ts,nodejs,angular,react,tailwind,mysql,postgres,azure,gcp,docker,kubernetes,linux,git,github,githubactions,jenkins,gradle,npm,grafana,visualstudio,rider,idea,webstorm,sublime,latex,md,discord&perline=10" 
       alt="My Tech Stack - Powered by LelouchFR/skill-icons" 
