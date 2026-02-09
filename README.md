@@ -134,9 +134,9 @@ mindmap
 <table width="100%">
   <thead>
     <tr>
-      <th width="35%">Project</th>
+      <th width="50%">Project</th>
       <th width="15%">Role</th>
-      <th width="50%">Tech Stack</th>
+      <th width="35%">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
