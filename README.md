@@ -1,5 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Tobias!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Tobias!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" 
+    alt="Header" 
+    width="100%"
+  />
+
+  <br />
+  <br />
+
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,delphi,cpp,rider,idea,visualstudio,azure,gcp,git,docker,kubernetes,linux,mysql,postgres,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" 
+      alt="My Tech Stack" 
+    />
+  </a>
+
 </div>
 
 <div align="center">
