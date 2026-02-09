@@ -238,8 +238,6 @@ mindmap
 
 ## ⚡ Recent Activity
 
-## ⚡ Recent Activity
-
 ```bash
 user@t-boyke-arch:~$ cat ~/current_status.log
 
@@ -252,11 +250,10 @@ user@t-boyke-arch:~$ cat ~/current_status.log
   ├── 📱 Developing:    Cross-Platform Apps (Kotlin 2.3 / Ktor)
   ├── 🔨 Refactoring:   Legacy Delphi to Modern Microservices
   └── 🐧 Workflow:      Hybrid Power-User Setup
-```
 
 > LAST_LOGIN
   Today at 09:41 AM from IP 127.0.0.1 **Workflow**: Hybrid power-user on **Windows 11** & **Arch Linux**.
-
+```
 ---
 
 <div align="center">
