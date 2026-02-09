@@ -37,23 +37,60 @@
 ## 🚀 The Tech Arsenal
 
 <div align="center">
+  <h3>🚀 The Tech Arsenal</h3>
   <a href="https://github.com/LelouchFR/skill-icons">
     <img 
-      src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,java,kotlin,ktor,go,php,bash,html,css,js,ts,json,yaml,toml,md,nodejs,angular,react,primereact,mui,jetpackcompose,hugo,tailwind,unocss,mysql,postgres,datagrip,apache,azure,gcp,docker,kubernetes,linux,debian,git,github,githubactions,gitea,jenkins,gradle,cmake,npm,playwright,vitest,lighthouse,eslint,prettier,visualstudio,rider,resharper,idea,goland,phpstorm,webstorm,sublime,grafana,davinci,audacity,canva,obs,teams,jira,discord,latex&perline=14"
-      alt="My Tech Stack - Powered by LelouchFR/skill-icons" 
+      src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,java,kotlin,ktor,go,php,bash,html,css,js,ts,json,yaml,toml,md,nodejs,angular,react,primereact,mui,jetpackcompose,hugo,tailwind,unocss,mariadb,postgres,datagrip,apache,azure,gcp,docker,kubernetes,linux,arch,fedora,git,github,githubactions,gitea,jenkins,gradle,cmake,npm,playwright,vitest,lighthouse,eslint,prettier,visualstudio,rider,resharper,idea,goland,phpstorm,webstorm,sublime,grafana,davinci,audacity,canva,obs,teams,jira,discord,latex&perline=14" 
+      alt="My Tech Stack - Arch, Fedora, MariaDB, PostgreSQL" 
     />
   </a>
-</div>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Core** | **C# 14**, **Java 21**, **Kotlin 2.3**, Delphi, Node.js, .NET 10 |
-| **Frontend & Design** | Angular, Blazor, TailwindCSS, UnoCSS, Material UI, HTML5, CSS3 |
-| **Databases** | MariaDB, Microsoft SQL Server |
-| **DevOps & CI/CD** | GitHub Actions, Jenkins, Docker, Kubernetes, Gradle, NuGet, NPM |
-| **Testing** | Playwright, Vitest, ESLint |
-| **Tools & Creative** | JetBrains (Rider, IntelliJ, ReSharper), DaVinci Resolve, Canva, LaTeX |
-
+  <br /><br />
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Category</th>
+        <th align="left">Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Backend & Core</strong></td>
+        <td>C# 14, .NET 10, Java 21 (LTS), Kotlin 2.3, Ktor, Go 1.25, PHP 8.4, Bash</td>
+      </tr>
+      <tr>
+        <td><strong>Frontend & Mobile</strong></td>
+        <td>Angular 21, React 19, TypeScript 5.8, Blazor Hybrid, Jetpack Compose, PrimeReact</td>
+      </tr>
+      <tr>
+        <td><strong>Styling & Design</strong></td>
+        <td>TailwindCSS 4.0, UnoCSS, Material UI 6, HTML5, CSS3</td>
+      </tr>
+      <tr>
+        <td><strong>Databases</strong></td>
+        <td>PostgreSQL 18, MariaDB 11.4, DataGrip</td>
+      </tr>
+      <tr>
+        <td><strong>DevOps & Cloud</strong></td>
+        <td>Azure, GCP, Docker, Kubernetes 1.32, Linux (Arch, Fedora 43), GitHub Actions</td>
+      </tr>
+      <tr>
+        <td><strong>Build & Tools</strong></td>
+        <td>Gradle 9.1, CMake, NPM, Git, Grafana 11, Gitea, Jenkins</td>
+      </tr>
+      <tr>
+        <td><strong>Testing & Quality</strong></td>
+        <td>Playwright, Vitest, Lighthouse, ESLint, Prettier</td>
+      </tr>
+      <tr>
+        <td><strong>IDEs</strong></td>
+        <td>Visual Studio 2026, JetBrains All Products Pack (Rider, IntelliJ, ReSharper, GoLand, PhpStorm)</td>
+      </tr>
+      <tr>
+        <td><strong>Creative & Misc</strong></td>
+        <td>DaVinci Resolve, OBS Studio, Canva, LaTeX, Jira, Discord, Teams</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
