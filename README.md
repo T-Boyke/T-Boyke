@@ -1,23 +1,11 @@
 <div align="center">
-
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Tobias!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" 
     alt="Header" 
     width="100%"
   />
-
   <br />
-  <br />
-
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,githubactions,cpp,rider,idea,visualstudio,azure,gcp,git,github,githubactions,docker,kubernetes,linux,md,mysql,postgres,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" 
-      alt="My Tech Stack" 
-    />
-  </a>
-
 </div>
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=C%23+14+%26+.NET+Elite;Java+21+%26+Kotlin+2.3;Delphi+RAD+Mastery;Enterprise+Solutions)](https://git.io/typing-svg)
@@ -48,8 +36,14 @@
 
 ## 🚀 The Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,delphi,cpp,rider,idea,visualstudio,azure,gcp,git,docker,kubernetes,linux,mysql,mssql,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" />
-<br/><br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,go,html,css,js,ts,nodejs,angular,react,tailwind,mysql,postgres,azure,gcp,docker,kubernetes,linux,git,github,githubactions,jenkins,gradle,npm,grafana,visualstudio,rider,idea,webstorm,sublime,latex,md,discord&perline=10" 
+      alt="My Tech Stack" 
+    />
+  </a>
+</div>
 
 | Category | Technologies |
 | :--- | :--- |
