@@ -103,14 +103,25 @@ mindmap
 
 <table>
   <tr>
+  
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=T-Boyke&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=T-Boyke&show_icons=true&theme=radical&hide_border=true" 
+        alt="T-Boyke GitHub Stats" 
+      />
     </td>
+
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Boyke&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+      <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Boyke&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+        alt="T-Boyke Top Languages" 
+      />
     </td>
+    
   </tr>
-</table>
+  </table>
 
 <img src="https://streak-stats.demolab.com/?user=T-Boyke&theme=radical&hide_border=true" />
 
