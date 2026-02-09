@@ -217,14 +217,14 @@ mindmap
     <td>
       <img 
         align="center" 
-        src="https://github-readme-stats-b.vercel.app/api?username=T-Boyke&show_icons=true&theme=transparent" 
+        src="https://github-readme-stats-b.vercel.app/api?username=T-Boyke&show_icons=true&theme=transparent&hide_border=true"
         alt="T-Boyke Stats" 
       />
     </td>
     <td>
       <img 
         align="center" 
-        src="https://github-readme-stats-b.vercel.app/api/top-langs/?username=T-Boyke&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+        src="https://github-readme-stats-b.vercel.app/api/top-langs/?username=T-Boyke&layout=compact&theme=transparent&hide_border=true&langs_count=8"
         alt="Top Languages" 
       />
     </td>
