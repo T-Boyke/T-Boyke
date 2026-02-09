@@ -217,7 +217,7 @@ mindmap
     <td>
       <img 
         align="center" 
-        src="https://github-readme-stats-b.vercel.app/api?username=T-Boyke&show_icons=true&theme=transparent 
+        src="https://github-readme-stats-b.vercel.app/api?username=T-Boyke&show_icons=true&theme=transparent" 
         alt="T-Boyke Stats" 
       />
     </td>
@@ -231,7 +231,7 @@ mindmap
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=T-Boyke&theme=radical&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=t-boyke&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 </div>
 
