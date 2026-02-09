@@ -8,7 +8,9 @@
 </div>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=C%23+14+%26+.NET+Elite;Java+21+%26+Kotlin+2.3;Delphi+RAD+Mastery;Enterprise+Solutions)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=C%23+%7C+.NET+%7C+Azure;Java+%7C+Kotlin+%7C+Android;Delphi+%7C+System+Integration;Clean+Code+%7C+TDD+%7C+DDD" alt="Typing SVG" />
+</a>
 
   <p>
     <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-LINK">
