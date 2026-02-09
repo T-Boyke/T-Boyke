@@ -238,14 +238,24 @@ mindmap
 
 ## ⚡ Recent Activity
 
-<!--
-  You can use a GitHub Action to automatically populate this section!
-  Check out: https://github.com/jamesgeorge007/github-activity-readme
--->
-* 🔭 **Architecting**: Next-Gen Enterprise Solutions in **C# 14**.
-* 📱 **Developing**: Cross-Platform apps using **Kotlin 2.3**.
-* 🔨 **Refactoring**: Bringing Legacy **Delphi** systems to the modern era.
-* 🐧 **Workflow**: Hybrid power-user on **Windows 11** & **Arch Linux**.
+## ⚡ Recent Activity
+
+```bash
+user@t-boyke-arch:~$ cat ~/current_status.log
+
+[SYSTEM]: Online
+[UPTIME]: 365 days, 24/7
+[OS]:     Arch Linux (Hyprland) & Windows 11 Pro
+
+> CURRENT_TASKS
+  ├── 🔭 Architecting:  Next-Gen Enterprise Solutions (C# 14 / .NET 10)
+  ├── 📱 Developing:    Cross-Platform Apps (Kotlin 2.3 / Ktor)
+  ├── 🔨 Refactoring:   Legacy Delphi to Modern Microservices
+  └── 🐧 Workflow:      Hybrid Power-User Setup
+```
+
+> LAST_LOGIN
+  Today at 09:41 AM from IP 127.0.0.1 **Workflow**: Hybrid power-user on **Windows 11** & **Arch Linux**.
 
 ---
 
