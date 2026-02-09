@@ -127,16 +127,79 @@ mindmap
 
 ---
 
-## 🏆 Notable Contributions
-
 <div align="center">
 
-| **Projekt** | **Rolle** | **Stack** |
-| :--- | :--- | :--- |
-| 🎵 **[VIVI Music](https://github.com/T-Boyke/vivi-music)** | Maintainer & Core Dev | **Kotlin**, Android, Material 3 |
-| 🔷 **[C# OOP Fundamentals](https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals)** | Author | **C#**, .NET, OOP Design Patterns |
-| 🎨 **[Grav CMS Themes](https://github.com/T-Boyke/grav-themes)** | Contributor | **PHP**, Twig, SCSS, JavaScript |
-| ☁️ **[Enterprise Cloud Utils](https://github.com/T-Boyke/cloud-utils)** | Architect | **C#**, Azure Functions, Terraform |
+## 🏆 Notable Contributions
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="15%">Role</th>
+      <th width="50%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <a href="https://github.com/T-Boyke/vivi-music">
+          <h3>🎵 VIVI Music</h3>
+        </a>
+        <blockquote>Next-Gen Android Music Experience</blockquote>
+      </td>
+      <td align="center"><strong>Maintainer</strong><br/>& Core Dev</td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals">
+          <h3>🔷 C# OOP Core</h3>
+        </a>
+        <blockquote>Mastering Design Patterns & Architecture</blockquote>
+      </td>
+      <td align="center"><strong>Author</strong></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Patterns-FFD700?style=flat-square&logo=c&logoColor=black"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://github.com/T-Boyke/grav-themes">
+          <h3>🎨 Grav CMS Themes</h3>
+        </a>
+        <blockquote>Performance-first theming engine</blockquote>
+      </td>
+      <td align="center"><strong>Contributor</strong></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Twig-B4D333?style=flat-square&logo=twig&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://github.com/T-Boyke/cloud-utils">
+          <h3>☁️ Enterprise Cloud Utils</h3>
+        </a>
+        <blockquote>Scalable Infrastructure as Code</blockquote>
+      </td>
+      <td align="center"><strong>Architect</strong></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Functions-F80000?style=flat-square&logo=azurefunctions&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 <br/>
 <i>Actively enabling the community through open source software.</i>
