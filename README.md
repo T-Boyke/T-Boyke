@@ -125,7 +125,40 @@ mindmap
 ```
 
 </div>
+<div align="center">
 
+## 🛠️ Engineering Standards
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>📐 Architecture & Design</h3>
+      <ul align="left">
+        <li><strong>DDD (Domain Driven Design)</strong><br/>Bounded Contexts & Ubiquitous Language.</li>
+        <li><strong>Clean Architecture</strong><br/>Strict separation of concerns (Onion/Hexagonal).</li>
+        <li><strong>SOLID Principles</strong><br/>Foundation of modular & scalable systems.</li>
+      </ul>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🛡️ Code Quality</h3>
+      <ul align="left">
+        <li><strong>TDD (Test Driven)</strong><br/>Red-Green-Refactor cycle.</li>
+        <li><strong>100% Coverage</strong><br/>Unit, Integration & E2E (Playwright/Vitest).</li>
+        <li><strong>Zero Compromise</strong><br/>DRY, KISS & "1 Class per File".</li>
+      </ul>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️ Workflow</h3>
+      <ul align="left">
+        <li><strong>SFC (Single File Components)</strong><br/>Modular UI architecture.</li>
+        <li><strong>Automated CI/CD</strong><br/>Quality Gates & Linting enforcement.</li>
+        <li><strong>Documentation</strong><br/>Self-documenting code & architectural decision records (ADR).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 <div align="center">
