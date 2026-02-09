@@ -217,7 +217,7 @@ mindmap
     <td>
       <img 
         align="center" 
-        src="https://github-readme-stats-b.vercel.app/api?username=T-Boyke&show_icons=true&theme=radical&hide_border=true" 
+        src="https://github-readme-stats-b.vercel.app/api?username=T-Boyke&show_icons=true&theme=transparent 
         alt="T-Boyke Stats" 
       />
     </td>
