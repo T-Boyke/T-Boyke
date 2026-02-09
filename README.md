@@ -253,7 +253,8 @@ user@t-boyke-arch:~$ cat ~/current_status.log
   └── 🐧 Workflow:      Hybrid Power-User Setup
 
 > LAST_LOGIN
-  Today at 09:41 AM from IP 127.0.0.1 **Workflow**: Hybrid power-user on **Windows 11** & **Arch Linux**.
+  Today at 09:41 AM from IP 127.0.0.1
+  **Workflow**: Hybrid power-user on **Windows 11** & **Arch Linux**.
 ```
 ---
 
