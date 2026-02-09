@@ -1,0 +1,32 @@
+# Name des Workflows, wie er in den GitHub Actions erscheint
+name: Update README Activity
+
+# Trigger-Definitionen: Wann soll der Workflow laufen?
+on:
+  # Zeitgesteuert: Alle 30 Minuten
+  schedule:
+    - cron: '*/30 * * * *'
+  # Manuell: Ermöglicht das Starten über den "Run workflow"-Button im Browser
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      # Schritt 1: Repository auschecken
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      # Schritt 2: Aktivitäts-Log generieren und einfügen
+      - name: Update Activity Section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          # Der Standard-Token von GitHub reicht hierfür aus
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Maximale Anzahl der angezeigten Einträge
+          MAX_LINES: 5
+          # Commit-Nachricht für die automatische Änderung
+          COMMIT_MSG: 'docs: update recent activity in readme'
