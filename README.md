@@ -103,15 +103,13 @@ mindmap
 
 <table>
   <tr>
-  
-    <td>
+      <td>
       <img 
         align="center" 
         src="https://github-readme-stats.vercel.app/api?username=T-Boyke&show_icons=true&theme=radical&hide_border=true" 
         alt="T-Boyke GitHub Stats" 
       />
     </td>
-
     <td>
       <img 
         align="center" 
@@ -119,7 +117,6 @@ mindmap
         alt="T-Boyke Top Languages" 
       />
     </td>
-    
   </tr>
   </table>
 
