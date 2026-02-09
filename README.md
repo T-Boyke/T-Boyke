@@ -146,7 +146,7 @@ mindmap
         <a href="https://github.com/T-Boyke/vivi-music">
           <h3>🎵 VIVI Music</h3>
         </a>
-        <blockquote>Next-Gen Android Music Experience</blockquote>
+        <blockquote>NMaterial 3 Audio Engine & Player</blockquote>
       </td>
       <td align="center"><strong>Maintainer</strong><br/>& Core Dev</td>
       <td align="left">
@@ -160,7 +160,7 @@ mindmap
         <a href="https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals">
           <h3>🔷 C# OOP Core</h3>
         </a>
-        <blockquote>Mastering Design Patterns & Architecture</blockquote>
+        <blockquote>Design Patterns & Architecture Reference</blockquote>
       </td>
       <td align="center"><strong>Author</strong></td>
       <td align="left">
@@ -174,7 +174,7 @@ mindmap
         <a href="https://github.com/T-Boyke/grav-themes">
           <h3>🎨 Grav CMS Themes</h3>
         </a>
-        <blockquote>Performance-first theming engine</blockquote>
+        <blockquote>High-Performance Frontend Themes</blockquote>
       </td>
       <td align="center"><strong>Contributor</strong></td>
       <td align="left">
@@ -188,7 +188,7 @@ mindmap
         <a href="https://github.com/T-Boyke/cloud-utils">
           <h3>☁️ Enterprise Cloud Utils</h3>
         </a>
-        <blockquote>Scalable Infrastructure as Code</blockquote>
+        <blockquote>Infrastructure as Code (IaC) Modules</blockquote>
       </td>
       <td align="center"><strong>Architect</strong></td>
       <td align="left">
@@ -240,22 +240,19 @@ mindmap
 ## ⚡ Recent Activity
 
 ```bash
-user@t-boyke-arch:~$ cat ~/current_status.log
+user@t-boyke-arch:~$ cat ~/current_tasks.txt
 
-[SYSTEM]: Online
-[UPTIME]: 365 days, 24/7
-[OS]:     Arch Linux (Hyprland) & Windows 11 Pro
+> ARCHITECTING
+  Next-Gen Enterprise Solutions (C# 14 / .NET 10)
 
-> CURRENT_TASKS
-  ├── 🔭 Architecting:  Next-Gen Enterprise Solutions (C# 14 / .NET 10)
-  ├── 📱 Developing:    Cross-Platform Apps (Kotlin 2.3 / Ktor)
-  ├── 🔨 Refactoring:   Legacy Delphi to Modern Microservices
-  └── 🐧 Workflow:      Hybrid Power-User Setup
+> DEVELOPING
+  Cross-Platform Apps (Kotlin 2.3 / Ktor)
 
-> LAST_LOGIN
-  Today at 09:41 AM from IP 127.0.0.1
-  **Workflow**: Hybrid power-user on **Windows 11** & **Arch Linux**.
-```
+> REFACTORING
+  Modernizing Legacy Delphi Systems
+
+> WORKFLOW
+  Hybrid: Windows 11 & Arch Linux (Hyprland)
 ---
 
 <div align="center">
