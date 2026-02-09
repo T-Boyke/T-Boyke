@@ -11,7 +11,7 @@
 
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,delphi,cpp,rider,idea,visualstudio,azure,gcp,git,docker,kubernetes,linux,mysql,postgres,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" 
+      src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,githubactions,cpp,rider,idea,visualstudio,azure,gcp,git,github,githubactions,docker,kubernetes,linux,md,mysql,postgres,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" 
       alt="My Tech Stack" 
     />
   </a>
@@ -48,7 +48,7 @@
 
 ## 🚀 The Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,delphi,cpp,rider,idea,visualstudio,azure,gcp,git,docker,kubernetes,linux,mysql,msql,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,delphi,cpp,rider,idea,visualstudio,azure,gcp,git,docker,kubernetes,linux,mysql,mssql,html,css,js,nodejs,angular,tailwind,gradle,jenkins&perline=8" />
 <br/><br/>
 
 | Category | Technologies |
