@@ -12,17 +12,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=C%23+%7C+.NET+%7C+Azure;Java+%7C+Kotlin+%7C+Android;Delphi+%7C+System+Integration;Clean+Code+%7C+TDD+%7C+DDD" alt="Typing SVG" />
 </a>
 
+<div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-LINK">
+    <a href="https://www.linkedin.com/in/tobias-boyke-2b51633a0/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:t-boyke@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="https://discord.com/users/stellt_dich_achtung">
+      <img src="https://img.shields.io/badge/Discord-stellt__dich__achtung-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a href="https://github.com/T-Boyke">
-      <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=opensource&logoColor=white"/>
+    <a href="mailto:Tobias.Boehse@proton.me">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/>
     </a>
   </p>
+</div>
 
 <p>
     <img src="https://img.shields.io/badge/IDE-JetBrains_Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white"/>
