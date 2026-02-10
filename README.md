@@ -101,7 +101,7 @@
 <div align="center">
 
 ## 🧠 Engineering Philosophy (2026 Edition)
-
+<!-- sollte geändert werden!
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'textColor': '#fff', 'nodeTextColor': '#fff', 'lineColor': '#fff' }}}%%
 mindmap
