@@ -24,9 +24,12 @@
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/>
     </a>
   </p>
-</div>
 
-<p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=T-Boyke&label=Profile%20Views&color=20C20E&style=for-the-badge" alt="T-Boyke Profile Views" />
+  </p>
+
+  <p>
     <img src="https://img.shields.io/badge/IDE-JetBrains_Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white"/>
     <img src="https://img.shields.io/badge/IDE-Visual_Studio_2026-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/OS-Windows_11_Pro-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
