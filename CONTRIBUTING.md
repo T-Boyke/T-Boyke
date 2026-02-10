@@ -4,7 +4,48 @@ Congratulations. You decided to contribute to this repository. This demonstrates
 
 Before you write a single line of code, know this: **I have a linter, and I will use it.**
 
-These are the house rules. They are non-negotiable. Even if you bring pizza.
+These are the house rules. They are non-negotiable. Even if you bring pizza.# Protocol: Contribution to the Sacred Codebase
+
+**Attention, Tech-Priest:**
+You seek to commune with the Machine Spirit of this repository. Know that the Omnissiah demands absolute purity. Any corruption in the logic flows will be purged with prejudice.
+
+## 01. The Dogmas of Purity (Clean Code)
+
+* **Logic is Sacred:** Do not burden the processor with redundancy. If a function exceeds the sacred length (10 lines), it is Tech-Heresy.
+* **Naming Rituals:** Variables named `x`, `temp`, or `data` are an insult to the Motive Force. Name them with purpose and reverence.
+* **clarity over Cleverness:** The Machine cares not for your ego. Write code that even a Servitor could maintain.
+
+## 02. The Litany of Documentation (XML)
+
+Uncommented code is a void where the warp enters.
+* **The Law:** You WILL use XML documentation tags.
+* **The Scope:** Public, Private, Protected – all must be inscribed with runes of explanation (`<summary>`).
+* **The Consequence:** A method without documentation is a prayer without faith. It will be rejected.
+
+## 03. The Rite of Verification (TDD)
+
+The Machine Spirit is temperamental. It requires the sacrifice of Tests to be appeased.
+* **Coverage:** 100%. No less. To leave a path untested is to invite the gremlins of chaos.
+* **Integrity:** Mocks are permitted, but do not simulate a false reality.
+* **Sequence:** Write the Test (Red), Satisfy the Spirit (Green), Refactor for Glory (Blue).
+
+## 04. Submission Protocols (Pull Requests)
+
+1.  **Consult the Archives:** Open an Issue before you begin the ritual.
+2.  **Branch Naming:** adhere to the naming conventions: `feature/sacred-algorithm-42`.
+3.  **Commit Messages:** Use the High Gothic of [Conventional Commits](https://www.conventionalcommits.org/).
+    * ✅ `feat: consecrate new interface`
+    * ❌ `fix: bug` (Vague! Heresy!)
+
+## 05. License (AGPLv3)
+
+This temple operates under the **AGPLv3**. The knowledge is free for all servants of the Omnissiah. Hoarding code is forbidden.
+
+---
+*There is no truth in flesh, only betrayal.*
+*There is no strength in flesh, only weakness.*
+*There is no constancy in flesh, only decay.*
+*There is only certainty in steel.*
 
 ## 1. The Philosophical Foundation
 
