@@ -286,6 +286,7 @@ user@t-boyke-arch:~$ cat ~/current_tasks.txt
 
 > WORKFLOW
   Hybrid: Windows 11 & Arch Linux (Hyprland)
+```
 ---
 
 <div align="center">
