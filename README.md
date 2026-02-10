@@ -23,9 +23,6 @@
     <a href="mailto:Tobias.Boehse@proton.me">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/>
     </a>
-  </p>
-
-  <p>
     <img src="https://komarev.com/ghpvc/?username=T-Boyke&label=Profile%20Views&color=20C20E&style=for-the-badge" alt="T-Boyke Profile Views" />
   </p>
 
