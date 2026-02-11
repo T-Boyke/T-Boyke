@@ -193,7 +193,7 @@ mindmap
     <tr>
       <td align="left">
         <a href="https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals">
-          <h3>🔷 C# OOP Core</h3>
+          <h3>🔷 C-Sharp-OOP-Fundamentals</h3>
         </a>
         <blockquote>Design Patterns & Architecture Reference</blockquote>
       </td>
