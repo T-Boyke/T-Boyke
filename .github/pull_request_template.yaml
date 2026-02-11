@@ -1,0 +1,14 @@
+name: "Code Contribution"
+description: "Submit your logic to the Omnissiah"
+body:
+  - type: checkboxes
+    id: quality_gates
+    attributes:
+      label: "Quality Gates"
+      options:
+        - label: "I confirm compliance with the 10-line method rule."
+          required: true
+        - label: "I have used XML documentation tags for EVERYTHING."
+          required: true
+        - label: "Test coverage is exactly 100%."
+          required: true
