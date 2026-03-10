@@ -177,19 +177,19 @@ mindmap
   </thead>
   <tbody>
     <tr>
-      <td align="left">
-        <a href="https://github.com/T-Boyke/vivi-music">
-          <h3>🎵 VIVI Music</h3>
-        </a>
-        <blockquote>NMaterial 3 Audio Engine & Player</blockquote>
-      </td>
-      <td align="center"><strong>Maintainer</strong><br/>& Core Dev</td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
-      </td>
-    </tr>
+    <td align="left">
+      <a href="https://github.com/vivi-music">
+        <h3>🎵 VIVI Music</h3>
+      </a>
+      <blockquote>Material 3 Audio Engine & Player</blockquote>
+    </td>
+    <td align="center"><strong>Maintainer</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
+    </td>
+  </tr>
     <tr>
       <td align="left">
         <a href="https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals">
@@ -205,33 +205,31 @@ mindmap
       </td>
     </tr>
     <tr>
-      <td align="left">
-        <a href="https://github.com/T-Boyke/grav-themes">
-          <h3>🎨 Grav CMS Themes</h3>
-        </a>
-        <blockquote>High-Performance Frontend Themes</blockquote>
-      </td>
-      <td align="center"><strong>Contributor</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Twig-B4D333?style=flat-square&logo=twig&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-      </td>
-    </tr>
+  <td align="left">
+    <a href="https://github.com/BitLC-NE-2025-2026/TicketsPlease">
+      <h3>🎟️ TicketsPlease</h3>
+    </a>
+    <blockquote>Ticket Management System</blockquote>
+  </td>
+  <td align="center"><strong>Core Dev</strong></td>
+  <td align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  </td>
+</tr>
     <tr>
-      <td align="left">
-        <a href="https://github.com/T-Boyke/cloud-utils">
-          <h3>☁️ Enterprise Cloud Utils</h3>
-        </a>
-        <blockquote>Infrastructure as Code (IaC) Modules</blockquote>
-      </td>
-      <td align="center"><strong>Architect</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Functions-F80000?style=flat-square&logo=azurefunctions&logoColor=white"/>
-      </td>
-    </tr>
+  <td align="left">
+    <a href="https://github.com/T-Boyke/C-Sharp-ASP-Fundamentals">
+      <h3>🔷 C Sharp ASP Fundamentals</h3>
+    </a>
+    <blockquote>ASP.NET Core Architecture Reference</blockquote>
+  </td>
+  <td align="center"><strong>Author</strong></td>
+  <td align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
+  </td>
+</tr>
   </tbody>
 </table>
 
