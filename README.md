@@ -100,33 +100,7 @@
 
 <div align="center">
 
-## 🧠 Engineering Philosophy (2026 Edition)
-<!-- sollte geändert werden! -->
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'textColor': '#fff', 'nodeTextColor': '#fff', 'lineColor': '#fff' }}}%%
-mindmap
-  root((T-Boyke))
-    Architecture
-      Clean Code
-      TDD & DDD
-      SFC (Single File Components)
-      Scalability
-    Languages
-      C# 14 ::High Perf
-      Java 21 ::Enterprise
-      Kotlin 2.3 ::Mobile/Multi
-      Web Stack ::Modern UI
-    Tools
-      JetBrains Ecosystem
-      CI/CD Automation
-      Cloud Native
-    Focus
-      Performance & Security
-      Legacy Modernization
-      Open Source
-```
 
-</div>
 <div align="center">
 
 ## 🛠️ Engineering Standards
