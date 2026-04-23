@@ -184,7 +184,7 @@
     </a>
     <blockquote>Ticket Management System</blockquote>
   </td>
-  <td align="center"><strong>Core Dev</strong></td>
+  <td align="center"><strong>Author</strong></td>
   <td align="left">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
