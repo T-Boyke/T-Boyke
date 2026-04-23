@@ -135,7 +135,6 @@
 </table>
 
 </div>
----
 
 <div align="center">
 
@@ -241,27 +240,6 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=t-boyke&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 </div>
-
----
-
-## ⚡ Recent Activity
-
-```bash
-user@t-boyke-arch:~$ cat ~/current_tasks.txt
-
-> ARCHITECTING
-  Next-Gen Enterprise Solutions (C# 14 / .NET 10)
-
-> DEVELOPING
-  Cross-Platform Apps (Kotlin 2.3 / Ktor)
-
-> REFACTORING
-  Modernizing Legacy Delphi Systems
-
-> WORKFLOW
-  Hybrid: Windows 11 & Arch Linux (Hyprland)
-```
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
