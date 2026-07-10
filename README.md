@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Tobias!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Tobias!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Clean%20Code%20Enthusiast&descAlignY=55&descAlign=50" 
     alt="Header" 
     width="100%"
   />
@@ -50,10 +50,14 @@ Aktuell formalisiere ich meine langjährige Praxiserfahrung durch die IHK-Zertif
 
 ### 💻 Featured Projects
 
-| Projekt | Rolle | Stack | Beschreibung |
+| Projekt | Rolle | Tech Stack | Business Value |
 |---|---|---|---|
-| **VIVI Music** | Lead Developer | Kotlin, Android Jetpack SDK | Open-Source Audio-Applikation mit über 500.000 aktiven Nutzern weltweit. Eigenverantwortliches Management von CI/CD Release-Cycles und Community-Support. |
-| **TicketsPlease** | Author | C# 14, .NET 10 EF Core, xUnit | Enterprise Ticket Management System. Strikte Implementierung von Domain-Driven Design und Clean Architecture Prinzipien inklusive vollautomatisierter Testabdeckung. |
+| **[VIVI Music](https://github.com/vivizzz007/vivi-music)** | Lead Developer | Kotlin, Android SDK 37 | Globale Skalierung und CI/CD Pipelines für über 500.000 aktive Nutzer |
+| **[TicketsPlease](https://github.com/BitLC-NE-2025-2026/TicketsPlease)** | Architect | C# 14, .NET 10 | Enterprise Backend mit Domain Driven Design und Clean Architecture |
+| **[Enterprise Ticket Dashboard](https://github.com/T-Boyke/EhlenAngularProjekt3)** | Frontend Developer | Angular 21, TypeScript | Skalierbares Client Interface für das Ticket Management System |
+| **[C Sharp ASP Fundamentals](https://github.com/T-Boyke/C-Sharp-ASP-Fundamentals)** | Developer | C# 14, ASP.NET Core | Implementierung von Web API Strukturen und Security Best Practices |
+| **[C Sharp OOP Fundamentals](https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals)** | Developer | C# 14 | Saubere Softwarearchitektur nach SOLID Prinzipien |
+| **[Linux Automatisierung](https://github.com/BitLC-NE-2025-2026/Linux-Essentials)** | Systemadministrator | Bash, PowerShell, Linux | Skriptbasierte Netzwerkverwaltung und Serveradministration |
 
 ## 🚀 The Tech Arsenal
 
@@ -154,80 +158,6 @@ Aktuell formalisiere ich meine langjährige Praxiserfahrung durch die IHK-Zertif
 </div>
 
 <div align="center">
-
-## 🏆 Notable Contributions
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="45%">Project</th>
-      <th width="20%">Role</th>
-      <th width="35%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <td align="left">
-      <a href="https://github.com/vivi-music">
-        <h3>🎵 VIVI Music</h3>
-      </a>
-      <blockquote>Material 3 Audio Engine & Player</blockquote>
-    </td>
-    <td align="center"><strong>Maintainer</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
-    </td>
-  </tr>
-    <tr>
-      <td align="left">
-        <a href="https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals">
-          <h3>🔷 C-Sharp-OOP-Fundamentals</h3>
-        </a>
-        <blockquote>Design Patterns & Architecture Reference</blockquote>
-      </td>
-      <td align="center"><strong>Author</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Patterns-FFD700?style=flat-square&logo=c&logoColor=black"/>
-      </td>
-    </tr>
-    <tr>
-  <td align="left">
-    <a href="https://github.com/BitLC-NE-2025-2026/TicketsPlease">
-      <h3>🎟️ TicketsPlease</h3>
-    </a>
-    <blockquote>Ticket Management System</blockquote>
-  </td>
-  <td align="center"><strong>Author</strong></td>
-  <td align="left">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  </td>
-</tr>
-    <tr>
-  <td align="left">
-    <a href="https://github.com/T-Boyke/C-Sharp-ASP-Fundamentals">
-      <h3>🔷 C Sharp ASP Fundamentals</h3>
-    </a>
-    <blockquote>ASP.NET Core Architecture Reference</blockquote>
-  </td>
-  <td align="center"><strong>Author</strong></td>
-  <td align="left">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
-  </td>
-</tr>
-  </tbody>
-</table>
-
-</div>
-
-<br/>
-<i>Actively enabling the community through open source software.</i>
-</div>
 
 ---
 
