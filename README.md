@@ -37,6 +37,25 @@
 ---
 
 <div align="center">
+# Tobias Boyke 
+**Backend & Mobile Developer | Open Source Maintainer | Clean Architecture Enthusiast**
+
+Als Entwickler mit tiefem Hintergrund in der Netzwerktechnik verbinde ich moderne Softwarearchitektur mit robuster Infrastruktur.
+Mein Fokus liegt auf der Entwicklung skalierbarer Enterprise-Systeme mit C# und .NET sowie der Pflege global genutzter Mobile-Applikationen.
+Aktuell formalisiere ich meine langjährige Praxiserfahrung durch die IHK-Zertifizierung als Fachinformatiker für Anwendungsentwicklung.
+
+### 🚀 Kernkompetenzen
+* **Architektur:** Domain-Driven Design, Clean Architecture, MVC, SOLID, TDD
+* **Backend:** C# 14, .NET 10 EF Core, Java 21, REST-APIs
+* **Mobile:** Kotlin 2.3, Android Jetpack SDK 37, Material 3
+* **Infrastruktur:** CI/CD Pipelines, Linux Server Administration, Git, Docker
+
+### 💻 Featured Projects
+
+| Projekt | Rolle | Stack | Beschreibung |
+|---|---|---|---|
+| **VIVI Music** | Lead Developer | Kotlin, Android Jetpack SDK | Open-Source Audio-Applikation mit über 500.000 aktiven Nutzern weltweit. Eigenverantwortliches Management von CI/CD Release-Cycles und Community-Support. |
+| **TicketsPlease** | Author | C# 14, .NET 10 EF Core, xUnit | Enterprise Ticket Management System. Strikte Implementierung von Domain-Driven Design und Clean Architecture Prinzipien inklusive vollautomatisierter Testabdeckung. |
 
 ## 🚀 The Tech Arsenal
 
