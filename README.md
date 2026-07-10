@@ -37,8 +37,6 @@
 ---
 
 <div align="center">
-# Tobias Boyke 
-**Backend & Mobile Developer | Open Source Maintainer | Clean Architecture Enthusiast**
 
 Als Entwickler mit tiefem Hintergrund in der Netzwerktechnik verbinde ich moderne Softwarearchitektur mit robuster Infrastruktur.
 Mein Fokus liegt auf der Entwicklung skalierbarer Enterprise-Systeme mit C# und .NET sowie der Pflege global genutzter Mobile-Applikationen.
