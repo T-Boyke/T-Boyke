@@ -54,7 +54,7 @@ Aktuell formalisiere ich meine langjährige Praxiserfahrung durch die IHK-Zertif
 |---|---|---|---|
 | **[VIVI Music](https://github.com/vivizzz007/vivi-music)** | Lead Developer | Kotlin, Android SDK 37 | ME3Expressive Audioplayer mit CI/CD Pipelines für über 500.000 aktive Nutzer |
 | **[TicketsPlease](https://github.com/BitLC-NE-2025-2026/TicketsPlease)** | Author | C# 14, .NET 10 | Ticket-System mit Domain Driven Design und Clean Architecture |
-| **[Angular learning platform(https://github.com/T-Boyke/EhlenAngularProjekt3)** | Author | Angular 21, TypeScript | Skalierbares Client Interface für das EOL Projekt |
+| **[Angular learning platform](https://github.com/T-Boyke/EhlenAngularProjekt3)** | Author | Angular 21, TypeScript | Skalierbares Client Interface für das EOL Projekt |
 | **[C Sharp ASP Fundamentals](https://github.com/T-Boyke/C-Sharp-ASP-Fundamentals)** | Author | C# 14, ASP.NET Core | Implementierung von Web API Strukturen und Security Best Practices |
 | **[C Sharp OOP Fundamentals](https://github.com/T-Boyke/C-Sharp-OOP-Fundamentals)** | Author | C# 14 | Fundamentales Know-How zur Objekt Orientieren Programmierung |
 | **[Linux-Essentials](https://github.com/BitLC-NE-2025-2026/Linux-Essentials)** | Author | Bash, Linux | Fundamentales Linux Wissen zur vorbereitung auf LPIC1 und LPIC2 |
