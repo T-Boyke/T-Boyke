@@ -40,7 +40,6 @@
 
 Als Entwickler mit tiefem Hintergrund in der Netzwerktechnik verbinde ich moderne Softwarearchitektur mit robuster Infrastruktur.
 Mein Fokus liegt auf der Entwicklung skalierbarer Enterprise-Systeme mit C# und .NET sowie der Pflege global genutzter Mobile-Applikationen.
-Aktuell formalisiere ich meine langjährige Praxiserfahrung durch die IHK-Zertifizierung als Fachinformatiker für Anwendungsentwicklung.
 
 ### 🚀 Kernkompetenzen
 * **Architektur:** Domain-Driven Design, Clean Architecture, MVC, SOLID, TDD
